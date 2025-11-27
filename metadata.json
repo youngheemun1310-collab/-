@@ -1,0 +1,5 @@
+{
+  "description": "Extract structured financial data from text using Gemini JSON mode.",
+  "requestFramePermissions": [],
+  "name": "Financial Parser"
+}
